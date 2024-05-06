@@ -1,0 +1,9 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(“€ç­ûÿÿÿÿ
+M
+java:S1854 "7Remove this useless assignment to local variable "aux".(Ô³Š¼
+@
+java:S1197"*Move the array designators [] to the type.(±ß‹›
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(„æÛÄÿÿÿÿÿ
